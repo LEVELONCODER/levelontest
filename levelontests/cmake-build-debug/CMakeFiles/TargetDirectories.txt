@@ -1,0 +1,3 @@
+C:/Users/levsh/CLionProjects/levelontests/cmake-build-debug/CMakeFiles/levelontests.dir
+C:/Users/levsh/CLionProjects/levelontests/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/levsh/CLionProjects/levelontests/cmake-build-debug/CMakeFiles/rebuild_cache.dir
